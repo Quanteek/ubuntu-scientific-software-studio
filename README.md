@@ -16,6 +16,7 @@ an Ubuntu LTS with libraries and tools for building scientific software
 * Fortran
    - gfortran
 * Julia
+* Scilab
 * Tools
    - gle
    - postgresql
