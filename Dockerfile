@@ -1,2 +1,2 @@
 FROM ubuntu:14.04
-MAINTENER quanteek
+MAINTAINER quanteek
