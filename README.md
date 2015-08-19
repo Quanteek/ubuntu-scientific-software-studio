@@ -3,7 +3,7 @@ an Ubuntu LTS with libraries and tools for building scientific software
 
 * C
    - gcc
-   - metis
+   - metis - 5.1.0
 * C++
    - g++
    - clang - 3.6
