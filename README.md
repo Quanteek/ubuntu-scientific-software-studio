@@ -1,6 +1,9 @@
 # ubuntu-scientific-software-studio
 an Ubuntu LTS with libraries and tools for building scientific software
 
+* C
+   - gcc
+   - metis
 * C++
    - g++
    - clang - 3.6
