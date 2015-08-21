@@ -20,7 +20,7 @@ Each program have to be installed in /opt/bin
 - pymongo
 - java
 - gfortran
-- julia
+- julia - 0.3.11
 - scilab
 - gle
 - postgresql
