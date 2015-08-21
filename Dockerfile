@@ -8,3 +8,4 @@ RUN apt-get install -y build-essential
 RUN apt-get install -y clang-3.6
 RUN apt-get install -y libarmadillo-dev
 RUN apt-get install -y libboost1.55-all-dev libboost1.55-dbg
+RUN apt-get install -y gfortran
