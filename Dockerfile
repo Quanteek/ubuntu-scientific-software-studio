@@ -13,3 +13,5 @@ RUN apt-get install -y libarmadillo-dev
 RUN apt-get install -y libboost1.55-all-dev libboost1.55-dbg
 RUN apt-get install -y gfortran
 RUN apt-get install -y julia
+RUN apt-get install -y libopenmpi-dev
+RUN apt-get install -y openmpi-bin
