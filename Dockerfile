@@ -17,3 +17,4 @@ RUN apt-get install -y gfortran
 RUN apt-get install -y julia
 RUN apt-get install -y libopenmpi-dev
 RUN apt-get install -y openmpi-bin
+RUN apt-get install -y cmake
