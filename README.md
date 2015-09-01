@@ -28,3 +28,4 @@ Each program have to be installed in /opt/bin
 - openmpi
 - blas
 - lapack
+- cmake
