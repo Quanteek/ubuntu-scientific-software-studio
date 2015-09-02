@@ -19,10 +19,4 @@ RUN apt-get install -y libopenmpi-dev
 RUN apt-get install -y openmpi-bin
 RUN apt-get install -y cmake
 RUN apt-get install -y unzip
-RUN wget http://simul.iro.umontreal.ca/testu01/TestU01.zip
-RUN unzip TestU01.zip
-RUN cd TestU01-1.2.3
-RUN chmod +x configure
-RUN ./configure
-RUN make
-RUN make install
+RUN wget http://simul.iro.umontreal.ca/testu01/TestU01.zip && unzip TestU01.zip && cd TestU01-1.2.3 && ./configure && make && make install
