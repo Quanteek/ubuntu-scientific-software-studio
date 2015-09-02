@@ -18,3 +18,4 @@ RUN apt-get install -y julia
 RUN apt-get install -y libopenmpi-dev
 RUN apt-get install -y openmpi-bin
 RUN apt-get install -y cmake
+RUN apt-get install -y testu01-bin libtestu01-0-dev
