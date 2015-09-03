@@ -1,4 +1,4 @@
-FROM ubuntu:14.04
+FROM ubuntu:12.04
 MAINTAINER quanteek
 
 RUN apt-get install -y software-properties-common
